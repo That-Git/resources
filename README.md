@@ -1,6 +1,6 @@
 # Awesome Wayland
 
-A lightly-curated list of [Wayland](https://gitlab.freedesktop.org/wayland/wayland) code and resources. Please investigate these projects on your own before fully committing to them! I have personal experience with some of the projects here, but for the others I rely heavily on the community for submissions, and generally just do a quick code search to see if it looks like the project supports Wayland natively.
+A lightly-curated list of [Wayland](https://gitlab.freedesktop.org/wayland/wayland) code and resources. Please investigate these projects on your own before fully committing to them! [Natalie Pendragon has personal experience](https://github.com/natpen) with some of the projects here, but for the others I rely heavily on the community for submissions, and generally just do a quick code search to see if it looks like the project supports Wayland natively.
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
